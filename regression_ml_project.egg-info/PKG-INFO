@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: regression_ml_project
+Version: 0.0.1
+Author: sridurga
+Author-email: sridurgasambasivarao@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: mlflow
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

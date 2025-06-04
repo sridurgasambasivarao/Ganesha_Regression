@@ -1,4 +1,6 @@
 desktop.ini
+.artifacts
+.logs
 
 # Environments
 venv/
