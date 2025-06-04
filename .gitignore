@@ -1,6 +1,7 @@
 desktop.ini
-artifacts
-logs
-
+artifacts/
+logs/
+regression_ml_project.egg-info/
+__pycache__/
 # Environments
 venv/
